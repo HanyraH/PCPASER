@@ -76,8 +76,8 @@ def get_system_info():
 
 class App:
     # Параметры для Яндекс GPT API
-    FOLDER_ID = 'ajenlrabc9mipsq5u1kh'
-    API_KEY = 'AQVN167UtibSzzRfBpGnIUKvkG0RDmaxRI3Vr2LM'
+    FOLDER_ID = 'ваш ID'
+    API_KEY = 'Ваш APIKEY'
 
     def __init__(self, root):
         self.root = root
