@@ -10,11 +10,11 @@ from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Вставьте сюда ваш токен
-TOKEN = '7945174839:AAH-RkHqwO_ML-CsNujzL1KSHo3Z5yvHGOc'
+TOKEN = 'Ваш APIKEY Telegram'
 
 # Параметры для Яндекс GPT API
-FOLDER_ID = 'ajenlrabc9mipsq5u1kh'
-API_KEY = 'AQVN167UtibSzzRfBpGnIUKvkG0RDmaxRI3Vr2LM'
+FOLDER_ID = 'Ваш ID'
+API_KEY = 'Ваш APIKEY'
 
 # Включаем логирование для отслеживания событий и ошибок
 logging.basicConfig(
